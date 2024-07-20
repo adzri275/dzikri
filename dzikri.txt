@@ -1,0 +1,5 @@
+ini line pertama 1
+ini line kedua
+ini line tiga
+ini line empat
+ini line lima
