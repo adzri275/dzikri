@@ -1,5 +1,6 @@
 ini line pertama 1
-ini line kedua
-ini line tiga
-ini line empat
-ini line lima
+ini line kedua 2 
+ini line tiga 3
+ini line empat 4
+ini line lima  5
+ ini line enam 6
